@@ -1,0 +1,2 @@
+config SHIELD_RAINBOWNUM
+  def_boot $(shield_list_contains, rainbownum)
