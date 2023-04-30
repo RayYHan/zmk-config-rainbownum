@@ -1,4 +1,6 @@
 if SHIELD_RAINBOWNUM
+
 config ZMK_KEYBOARD_NAME
   default "rainbownum"
+
 endif
